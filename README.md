@@ -1,7 +1,7 @@
 # krypt-web3-app
-Hurry up! Take a look at your favorite movies ....📺📺
+Hurry up! Connect your account to see the lastest transactions  ... 🦊 🦊
 
 
-## Take a look 🎇 :)
+## Take a look 🦊 :)
 ![alt_text](images/notConnect.png)
 ![alt_text](images/connect.png)
